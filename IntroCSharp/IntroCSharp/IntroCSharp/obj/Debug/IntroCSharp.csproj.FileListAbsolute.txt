@@ -1,0 +1,14 @@
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.csprojAssemblyReference.cache
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe.config
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.pdb
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.exe
+D:\Corporate\Cognixia\Demos\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.pdb
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe.config
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.pdb
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.exe
+C:\Users\Renee\Documents\git\C-sharp\IntroCSharp\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\bin\Debug\IntoToConsoleApp.exe.config
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\bin\Debug\IntoToConsoleApp.exe
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\bin\Debug\IntoToConsoleApp.pdb
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\obj\Debug\IntoToConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\obj\Debug\IntoToConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\obj\Debug\IntoToConsoleApp.exe
+C:\Users\Renee\Documents\git\C-sharp\IntoToConsoleApp\IntoToConsoleApp\obj\Debug\IntoToConsoleApp.pdb
