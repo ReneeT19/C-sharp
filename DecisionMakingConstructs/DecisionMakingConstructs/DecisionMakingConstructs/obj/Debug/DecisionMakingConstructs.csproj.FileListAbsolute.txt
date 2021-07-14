@@ -1,0 +1,14 @@
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.exe.config
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.exe
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.pdb
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.exe
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.pdb
+D:\Corporate\Cognixia\Demos\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.csprojAssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.exe.config
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.exe
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\bin\Debug\DecisionMakingConstructs.pdb
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.exe
+C:\Users\Renee\Documents\git\C-sharp\DecisionMakingConstructs\DecisionMakingConstructs\DecisionMakingConstructs\obj\Debug\DecisionMakingConstructs.pdb

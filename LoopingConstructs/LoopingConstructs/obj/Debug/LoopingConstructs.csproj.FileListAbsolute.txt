@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe.config
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.pdb
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.exe
+C:\Users\Renee\Documents\git\C-sharp\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.pdb
