@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\bin\Debug\Session5Assignment.exe.config
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\bin\Debug\Session5Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\bin\Debug\Session5Assignment.pdb
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\obj\Debug\Session5Assignment.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\obj\Debug\Session5Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\obj\Debug\Session5Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session5Assignment\Session5Assignment\obj\Debug\Session5Assignment.pdb

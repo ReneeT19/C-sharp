@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.exe.config
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.exe
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\bin\Debug\FunctionsAndExceptionHandling.pdb
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.exe
+C:\Users\Renee\Documents\git\C-sharp\FunctionsAndExceptionHandling\FunctionsAndExceptionHandling\obj\Debug\FunctionsAndExceptionHandling.pdb

@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\Renee\Documents\git\C-sharp\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb

@@ -1,0 +1,7 @@
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csprojAssemblyReference.cache
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+D:\Corporate\Cognixia\Demos\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\bin\Debug\Session6Assignment.exe.config
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\bin\Debug\Session6Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\bin\Debug\Session6Assignment.pdb
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\obj\Debug\Session6Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\obj\Debug\Session6Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\obj\Debug\Session6Assignment.pdb
+C:\Users\Renee\Documents\git\C-sharp\Session6Assignment\Session6Assignment\obj\Debug\Session6Assignment.csproj.AssemblyReference.cache
