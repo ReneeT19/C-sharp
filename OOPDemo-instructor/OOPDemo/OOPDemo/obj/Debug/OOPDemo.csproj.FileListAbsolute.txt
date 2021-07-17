@@ -1,0 +1,7 @@
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe.config
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\bin\Debug\OOPDemo.pdb
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csprojAssemblyReference.cache
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\obj\Debug\OOPDemo.exe
+D:\Corporate\Cognixia\Demos\OOPDemo\OOPDemo\obj\Debug\OOPDemo.pdb

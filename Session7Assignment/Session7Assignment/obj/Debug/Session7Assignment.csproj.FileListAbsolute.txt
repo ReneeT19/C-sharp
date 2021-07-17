@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\bin\Debug\Session7Assignment.exe.config
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\bin\Debug\Session7Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\bin\Debug\Session7Assignment.pdb
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\obj\Debug\Session7Assignment.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\obj\Debug\Session7Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\obj\Debug\Session7Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session7Assignment\Session7Assignment\obj\Debug\Session7Assignment.pdb

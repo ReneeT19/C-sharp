@@ -1,0 +1,7 @@
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\bin\Debug\Session8Assignment.exe.config
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\bin\Debug\Session8Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\bin\Debug\Session8Assignment.pdb
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\obj\Debug\Session8Assignment.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\obj\Debug\Session8Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\obj\Debug\Session8Assignment.exe
+C:\Users\Renee\Documents\git\C-sharp\Session8Assignment\Session8Assignment\obj\Debug\Session8Assignment.pdb

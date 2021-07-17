@@ -1,0 +1,22 @@
+﻿using System;
+
+
+namespace OOPDemo
+{
+    class MobilePhone
+    {
+        public MobilePhone()
+        {
+            Console.WriteLine("Default Constructor of MobilePhone");
+        }
+
+        public string Calling()
+        {
+            return "Calling() from MobilePhone";
+        }
+        public string SendSMS()
+        {
+            return "SendSMS() from MobilePhone()";
+        }
+    }
+}

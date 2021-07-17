@@ -1,0 +1,14 @@
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csprojAssemblyReference.cache
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+D:\Corporate\Cognixia\Demos\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.pdb
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+C:\Users\Renee\Documents\git\C-sharp\StructureAndEnum-instructor\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.pdb
