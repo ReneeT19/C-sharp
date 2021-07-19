@@ -1,0 +1,6 @@
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\obj\Debug\MyMathLib.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\obj\Debug\MyMathLib.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\bin\Debug\MyMathLib.dll
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\bin\Debug\MyMathLib.pdb
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\obj\Debug\MyMathLib.dll
+C:\Users\Renee\Documents\git\C-sharp\MyMathLib\MyMathLib\obj\Debug\MyMathLib.pdb

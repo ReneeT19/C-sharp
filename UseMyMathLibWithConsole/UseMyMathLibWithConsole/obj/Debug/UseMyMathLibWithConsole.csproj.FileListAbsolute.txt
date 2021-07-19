@@ -1,0 +1,10 @@
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\bin\Debug\UseMyMathLibWithConsole.exe.config
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\bin\Debug\UseMyMathLibWithConsole.exe
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\bin\Debug\UseMyMathLibWithConsole.pdb
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\bin\Debug\MyMathLib.dll
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\bin\Debug\MyMathLib.pdb
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\obj\Debug\UseMyMathLibWithConsole.csproj.AssemblyReference.cache
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\obj\Debug\UseMyMathLibWithConsole.csproj.CoreCompileInputs.cache
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\obj\Debug\UseMyMathLibWithConsole.csproj.CopyComplete
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\obj\Debug\UseMyMathLibWithConsole.exe
+C:\Users\Renee\source\repos\UseMyMathLibWithConsole\UseMyMathLibWithConsole\obj\Debug\UseMyMathLibWithConsole.pdb

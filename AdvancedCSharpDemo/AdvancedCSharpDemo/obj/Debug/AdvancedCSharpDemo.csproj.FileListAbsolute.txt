@@ -1,0 +1,14 @@
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.exe.config
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.exe
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.pdb
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.csproj.AssemblyReference.cache
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.exe
+C:\Users\Renee\source\repos\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.pdb
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.exe
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\obj\Debug\AdvancedCSharpDemo.pdb
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.exe.config
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.exe
+C:\Users\Renee\Documents\git\C-sharp\AdvancedCSharpDemo\AdvancedCSharpDemo\bin\Debug\AdvancedCSharpDemo.pdb

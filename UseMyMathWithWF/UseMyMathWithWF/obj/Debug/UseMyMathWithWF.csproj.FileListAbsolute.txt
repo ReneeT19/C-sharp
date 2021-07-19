@@ -1,0 +1,13 @@
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\bin\Debug\UseMyMathWithWF.exe.config
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\bin\Debug\UseMyMathWithWF.exe
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\bin\Debug\UseMyMathWithWF.pdb
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\bin\Debug\MyMathLib.dll
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\bin\Debug\MyMathLib.pdb
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.csproj.AssemblyReference.cache
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.Form1.resources
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.Properties.Resources.resources
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.csproj.GenerateResource.cache
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.csproj.CoreCompileInputs.cache
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.csproj.CopyComplete
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.exe
+C:\Users\Renee\Documents\git\C-sharp\UseMyMathWithWF\UseMyMathWithWF\obj\Debug\UseMyMathWithWF.pdb
