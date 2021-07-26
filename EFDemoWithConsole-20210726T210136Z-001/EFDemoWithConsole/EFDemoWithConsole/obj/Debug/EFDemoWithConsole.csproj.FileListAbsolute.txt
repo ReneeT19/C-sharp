@@ -1,0 +1,12 @@
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EFDemoWithConsole.exe.config
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EFDemoWithConsole.exe
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EFDemoWithConsole.pdb
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EntityFramework.dll
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EntityFramework.xml
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\obj\Debug\EFDemoWithConsole.csprojAssemblyReference.cache
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\obj\Debug\EFDemoWithConsole.csproj.CoreCompileInputs.cache
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\obj\Debug\EFDemoWithConsole.csproj.CopyComplete
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\obj\Debug\EFDemoWithConsole.exe
+D:\Corporate\Cognixia\EF\Demos\EFDemoWithConsole\EFDemoWithConsole\obj\Debug\EFDemoWithConsole.pdb
